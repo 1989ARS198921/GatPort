@@ -1,13 +1,13 @@
 {
-  "title": "ARS | Portfolio",
-  "siteUrl": "",
-  "description": " web applications is good",
+  "title": "Brian Ruiz | Portfolio",
+  "siteUrl": "https://brianruizy.com/",
+  "description": "Brian Ruiz is a Houston based Software Engineer specializing in Python full-stack, web applications and data analytics.",
   "home": {
-    "name": "Arseniy Stro",
-    "username": "Ars",
-    "role": "Дневник",
-    "summary": "Unity peace and love.",
+    "name": "Brian Ruiz",
+    "username": "brianruizy",
+    "role": "Software Engineer",
+    "summary": "I specialize in Python full-stack development, front-end design, data analytics, cloud computing, and I'm interested in all things technology.",
     "availability": "Open to new opportunities",
-    "location": "Earth Russia Ryazan"
+    "location": "Houston, TX"
   }
 }
