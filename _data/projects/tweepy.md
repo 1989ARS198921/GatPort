@@ -1,11 +1,11 @@
 ---
 template: projects
-name: Twitter analysis
-github: 'https://twitter.com'
-demo: 'https://repl.it/@BrianRuiz1/Sentiment-Analysis'
+name: My personal porfolio second
+github: 'https://Heroku.com'
+demo: 'https://myresumeesy.herokuapp.com'
 tags: 
-    - Python
-    - ML
-    - NLP
+    - Heroku
+    - Resume
+    
 ---
-Project showing natural lanuguage processing of 'tweets' using the Tweepy API, and TextBlob.
+Project easy.

@@ -1,10 +1,11 @@
 ---
 template: projects
-name: ML digit recognition
+name: My stars and my studing 
 github: 'https://github.com/'
 tags: 
-    - Python
-    - ML
-    - SVM
+    - C#
+    - .Net
+    -  React
+
 ---
-AI supervised learning classification model to predict the value of handwritten digits image files.
+React , Redux ,.Net

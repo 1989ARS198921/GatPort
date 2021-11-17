@@ -1,10 +1,10 @@
 ---
 template: projects
-name: BookOMate
-github: 'https://github.com/brianruizy'
-demo: 'https://bookomate.herokuapp.com/'
+name: MERN-forum
+github: 'https://github.com/1989ARS198921/mymernforum'
+demo: 'https://fierce-wildwood-06080.herokuapp.com/'
 tags: 
-    - Django
+    - MERN
     - Heroku
 ---
-Smart, cloud-based, intuitive, and lightweight calendar booking web-application, all open-source.
+MERN Project forum full stack
