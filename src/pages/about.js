@@ -7,6 +7,7 @@ import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import Image from 'react-bootstrap/Image'
+import Card from 'react-bootstrap/Card'
 
 const AboutPage = ({
   data: {
@@ -26,22 +27,41 @@ const AboutPage = ({
           />
         <Row className="header">
           <Col sm={12} md="auto">
-            <Image roundedCircle src="/assets/portrait.png"></Image>
+            <Image roundedCircle src="/assets/arsstro.jpg"></Image>
           </Col>
           <Col sm={12} md="auto" className="text">
             <h2>{site.siteMetadata.home.name}</h2>
             <p>{site.siteMetadata.home.role}</p>
           </Col>
         </Row>
-        <Row>
+        <Row className="justify-content-md-center">
           <Col md={9}>
-            <h2>
+            <h5>
+            <p> Привет меня зовут Арсений , я увлеченный разработчик  интересуюсь многими направлениями 
+  в it : frontend , backend , computer sciences, решаяю задачи прокачиваю свои умения. Люблю много читать и экспереминтировать с кодом. 
+  Писал проекты в среде Visual Studio(2017/19) , Visual Studio Code , Web Storm : C# .net , ASP .NET web разработка , так же  использовал (React-Redux,Node-Express js ,Html5 , CSS3 ,Saas) в  приложениях . Люблю читать книги , из любимых авторов: Эндрю Таненбаум и серии книг classic computer science , CLR via C# .NET , o'reilly books (javascript).
+В университете : </p>
+Цифровая обработка сигналов( практика )в среде Matlab ,  С / C++ (встроенные системы ).
+СУБД Mycrosoft SQL server 2016 курсовые , контрольные , лабораторные работы для студентов .
+  веду свой небольшой блог.,
 
-            </h2>
+ <p>Очень хочется получить опыт промышленной разработки .</p>
+              </h5>
+              <Col>
+              <Card border="warning" style={{ width: 'auto' }}>
+          <Col sm="auto" md="auto">
+          <Image roundedCircle src="graduation.png"></Image>
           </Col>
-          <Col md={3}>
-            
-          </Col>
+        <Card.Body>
+      <Card.Title>Образования университеты:</Card.Title>
+      <Card.Text>
+     <p> МИИТ - Национальная экномика 2012,</p>
+      <p> РГРТУ - Радиоэлектроника 2022.</p>
+      </Card.Text>
+    </Card.Body>
+  </Card>
+  </Col>
+  </Col>
         </Row>
       </Container>
     </Layout>
