@@ -53,8 +53,8 @@ const Navigation = (props) => {
           />{ data.site.siteMetadata.home.name }
         </Navbar.Brand>
         <Navbar.Collapse className="justify-content-end">
-          <a href="https://www.linkedin.com/in/brianruizy/">LinkedIn</a>
-          <a href="https://github.com/BrianRuizy/">GitHub</a>
+          <a href="https://vk.com/ratatatata1989/">Vkon</a>
+          <a href="https://github.com/1989ARS198921/">GitHub</a>
           <Link to="/about">About</Link>
           <BottomDrawer/>
         </Navbar.Collapse>
