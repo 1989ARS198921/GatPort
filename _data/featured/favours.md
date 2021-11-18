@@ -18,6 +18,7 @@ tags:
 
 Мой любимый язык программирования C# и платформа .net
 
-Мои любимые сайты для обучения программирования на платформе .Net : [Metanit for C#](https://metanit.com/sharp/) , [Microsoft Docymentations](https://docs.microsoft.com/ru-ru/dotnet/)
+Мои любимые сайты для обучения программирования на платформе .Net : [Metanit for C#](https://metanit.com/sharp/) , [Microsoft Docymentations](https://docs.microsoft.com/ru-ru/dotnet/),
+[net-informations](http://net-informations.com)
 Так же YouTube каналы:
 [Codeblock](https://www.youtube.com/watch?v=p9QxqrwkPbA&list=PLIIXgDT0bKw4OmiZ9yGmShKsY0XncViZ8)

@@ -50,7 +50,7 @@ const AboutPage = ({
               <Col>
               <Card border="warning" style={{ width: 'auto' }}>
           <Col sm="auto" md="auto">
-          <Image roundedCircle src="graduation.png"></Image>
+          <Image roundedCircle src="/assets/graduation.png"></Image>
           </Col>
         <Card.Body>
       <Card.Title>Образования университеты:</Card.Title>
