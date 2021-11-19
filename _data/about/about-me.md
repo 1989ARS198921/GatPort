@@ -2,15 +2,15 @@
 template: about
 name: about
 socials: 
-    - 'https://github.com/brianruizy'
-    - 'https://linkedin.com/'
+    - 'https://github.com/1989ARS198921'
+    - 'https://Vk.com/'
 tech: 
-    - Django
-    - Python
+    - React
+    - .Net
 ---
 ## About me
 
-I'm a Software Developer, specializing in Python full stack development. I'm a data nerd, know cloud computing, enjoy front-end design, & proponent of open-source. 
+I'm a Software Developer. 
 
 ## Why I do this stuff?
 

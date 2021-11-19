@@ -6,7 +6,7 @@ thumbnail: 'https://images.pexels.com/photos/3951355/pexels-photo-3951355.jpeg?a
 github: https://github.com/1989ARS198921
 demo: https://ncov-dashboard.herokuapp.com/
 date: 2020-08-01
-name: COVID-19 Dashboard
+name: COVID-19 D
 title: Это мой пропуск в жизнь для свободного перемещения в 21 веке
 category: Web app
 description: ''

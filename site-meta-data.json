@@ -1,12 +1,12 @@
 {
   "title": "Ars Stro | Portfolio",
-  "siteUrl": "https://brianruizy.com/",
+  "siteUrl": "https://vibrant-pike-f41005.netlify.app/",
   "description": "specialize in  full-stack development, front-end design.",
   "home": {
     "name": "Ars Stro",
-    "username": "arseniy",
-    "role": "the diary of a developer",
-    "summary": "I specialize in  full-stack development, front-end design.",
+    "username": "Arseniy",
+    "role": "The diary of a developer",
+    "summary": "The diary of a developer",
     "availability": "Open to new opportunities",
     "location": "Russia, RZN"
   }

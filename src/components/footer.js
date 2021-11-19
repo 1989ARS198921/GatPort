@@ -7,8 +7,8 @@ export default (props) => (
     </a>
     <p className="mt-1">
       &copy;{ new Date().getFullYear() } 
-      <a href="https://github.com/BrianRuizy/gatsby-minimal-portfolio/" target="_blank" rel="noopener noreferrer"> Portfolio</a>,
-      by Brian Ruiz.
+      <a href="https://github.com/1989ARS198921/GatPort/" target="_blank" rel="noopener noreferrer"> Portfolio</a>,
+      by Brian and Ars.
     </p>
   </footer>
 )
