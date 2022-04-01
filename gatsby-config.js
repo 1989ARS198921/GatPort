@@ -57,10 +57,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Brian Ruiz Portfolio`,
-        short_name: `BR Portfolio`,
+        name: `#diary #diary`,
+        short_name: `#Portfolio#`,
         start_url: `/`,
-        background_color: `#fafafa`,
+        background_color: `##BC8F8F`,
         theme_color: `#0a0a0a`,
         display: `standalone`,
         icon: "src/images/icon.png",
