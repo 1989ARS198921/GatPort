@@ -1,11 +1,12 @@
 ---
-template: projects
-name: My stars and my studing 
+template: first project-website
+name: Web site landing  - Vercel js 
 github: 'https://github.com/'
-tags: 
-    - C#
-    - .Net
-    -  React
+demo: 'https://nextjs-blog-1989ars198921.vercel.app/'
+tags: https://github.com/1989ARS198921/nextjs-blog
+    - JS
+    - Next
+    - React
 
 ---
-React , Redux ,.Net
+React ,Vercel ,Next - Javascript

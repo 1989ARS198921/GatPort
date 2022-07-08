@@ -1,6 +1,6 @@
 ---
 template: projects
-name: My personal porfolio second
+name: My personal porfolio second(Резюме)
 github: 'https://Heroku.com'
 demo: 'https://myresumeesy.herokuapp.com'
 tags: 
